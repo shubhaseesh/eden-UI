@@ -48,3 +48,12 @@
   height: 34px;
   margin-top: 1rem;
 }
+@media screen and (max-width:600px) {
+  .details-container{
+    justify-content: center;
+    width:400px;
+    height: auto;
+    text-align: center;
+  }
+  
+}

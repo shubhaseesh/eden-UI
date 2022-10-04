@@ -23,3 +23,26 @@
   margin-bottom: 1rem;
   max-width: 100%;
 }
+@media screen and (max-width: 600px) {
+  .coplition-container {
+    justify-content: center;
+    width: 400px;
+    height: auto;
+    text-align: center;
+  }
+  .checkbox {
+    width: 400px;
+    /* margin: 0 20%; */
+    justify-content: center;
+    align-items: center;
+  }
+  .checkbox img {
+    width: 400px;
+    margin: 0 20%;
+  }
+  .actions button {
+    margin: 0 20%;
+    height: 100%;
+    max-width: 100%;
+  }
+}

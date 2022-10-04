@@ -44,7 +44,9 @@
 @media screen and (max-width:600px) {
   .homepage-container{
     justify-content: center;
-    width:auto;
+    width:400px;
     height: auto;
+    text-align: center;
   }
+  
 }
